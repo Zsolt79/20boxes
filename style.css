@@ -1,0 +1,32 @@
+ul{
+    width: 800px;
+    height: 150px;
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: lightblue solid 2px;
+   }
+
+.container_1{
+    background: white;
+}
+
+.container_2{
+    background: pink;
+}
+   
+li{
+    width: 50px;
+    height: 50px;
+    margin-left: 5px; 
+   }
+
+.item_1{
+    background: lightblue;
+}
+
+.item_2{
+    background: purple;
+}
